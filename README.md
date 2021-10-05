@@ -59,7 +59,7 @@ All commands that can be performed by MBot. Prefix is $. Simply type the command
 | `$report @<username> <reason>`  | Reports a user with a reason |
 | `$lvl`      | Shows your level card |
 | `$lvl @<username>`      | Shows level card for specified user |
-| `$rating <attachment>`      | Adds 👍 and 👎 reacts to attachment |
+| `$rating <attachment>`      | Adds 👍 and 👎 reactions to attachment |
 | `$remind <message>`      | Reminds the user of the specified message after a specified period of time |
 | `$prizes`      | List of prizes you can redeem with MCoins |
 | `$redeem <prize>`      | Redeem a prize with MCoins |
