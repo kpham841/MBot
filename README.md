@@ -47,7 +47,7 @@ All commands that can be performed by MBot. Prefix is $. Simply type the command
 | `$coins`      | Shows number of MCoins you have    |
 | `$coins @<username>`      | Shows number of MCoins a user has   |
 | `$pay @<username> <amount of MCoins>`   | Transfers specified amount of MCoins to specified user     |
-| (Admin)`$generate <amount of MCoins`      | Add a certain number of coins to your account       |
+| (Admin)`$generate <amount of MCoins>`      | Add a certain number of coins to your account       |
 | `$reset`   | Sets users MCoin balance to 0      |
 
 | Miscellaneous Commands | Description |
