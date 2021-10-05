@@ -19,7 +19,7 @@ from the database. This knowledge helped me implement a ton of features, such as
 1. Create a Discord account 
 2. Create a server
 3. Click **[here](https://discord.com/api/oauth2/authorize?client_id=722306796483641366&permissions=8&scope=bot) to invite MBot to your server** 
-4. Check out the [commands](##commands) below and have fun!
+4. Check out the [commands](#commands) below and have fun!
 
 ## Commands ($cmds)
 All commands that can be performed by MBot. Prefix is $. Simply type the command in the message box and press enter.
