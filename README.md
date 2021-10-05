@@ -18,7 +18,7 @@ from the database. This knowledge helped me implement a ton of features, such as
 ## Set-up
 1. Create a Discord account 
 2. Create a server
-3. Click **[here](https://discord.com/api/oauth2/authorize?client_id=722306796483641366&permissions=8&scope=bot) to invite MBot to your server** 
+3. Click **[here](https://discord.com/api/oauth2/authorize?client_id=722306796483641366&permissions=8&scope=bot)** to invite MBot to your server 
 4. Check out the [commands](#commands) below and have fun!
 
 ## Commands
