@@ -3,6 +3,9 @@
 ## Overview
 **MBot** is a multi-purpose discord bot with administrative commands, mini-games, currency system, xp system, and meme generator that was created for entertainment purposes.
 
+## Inspiration
+As someone who uses Discord frequently, I wanted to create a bot that automated my tasks and could be used for entertainment purposes. 
+
 ## How it's made
 As this was just a bot within Discord, it was mostly backend work. After initially setting up the bot to accept commands using Discord.js (Node.js module) , I was ready to start 
 implementing features. I developed the features through an iterative process, where I would first brainstorm what the feature required (database, libraries, etc.), then implementing and coding
