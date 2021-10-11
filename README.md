@@ -10,6 +10,8 @@ the feature (lots of googling), and then finally testing the feature thoroughly 
 After about 3 months of adding features, I deemed it to be sufficient to publish online so that other people could use it. Heroku was the perfect fit for all my needs and has 
 been hosting MBot to this day.
 
+![Tech Stack](tech_stack.png)
+
 ## Challenges
 Figuring out the best way to implement features was the biggest challenge, especially the ones that required a database since I had no prior knowledge 
 of using databases. However, after many hours of research, talking to people on coding forums, and trial and error, I eventually learned how to update and retrieve user data 
