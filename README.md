@@ -1,5 +1,14 @@
 # MBot
 
+## Table of Contents
+1. [Overview](#overview)
+2. [Inspiration](#inspiration)
+3. [How it's made](#how-its-made)
+4. [Challenges](#challenges)
+5. [Set-up](#set-up)
+6. [Commands](#commands)
+7. [Future](#future)
+
 ## Overview
 **MBot** is a multi-purpose discord bot with administrative commands, mini-games, currency system, xp system, and meme generator that was created for entertainment purposes.
 
@@ -70,8 +79,8 @@ All commands that can be performed by MBot. Prefix is $. Simply type the command
 | `$redeem <prize>`      | Redeem a prize with MCoins |
 
 
-## Future for MBot
-I don't have any current plans to implement features but maybe I'll be inspired in the future.
+## Future
+I don't have any current plans to implement more features but maybe I'll be inspired in the future.
 
 ## Thanks for stopping by!
 ![Mayuri Wave](https://c.tenor.com/8-jJyFqnWxwAAAAC/steins-gate-wave.gif)
