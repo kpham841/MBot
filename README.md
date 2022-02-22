@@ -18,7 +18,14 @@ As someone who uses Discord frequently, I wanted to create a bot that automated 
 ## How it's made
 As this was just a bot within Discord, it was mostly backend work. After initially setting up the bot to accept commands using Discord.js (Node.js module) , I was ready to start 
 implementing features. I developed the features through an iterative process, where I would first brainstorm what the feature required (database, libraries, etc.), then implementing and coding
-the feature (lots of googling), and then finally testing the feature thoroughly to make sure it worked properly and didn't have any bugs. 
+the feature, and then finally testing the feature thoroughly to make sure it worked properly and didn't have any bugs. 
+
+The database schema consisted of 5 main fields: userID, serverID, money, xp, and level. A schema gets created for each user upon typing something in the chat. The data can be read and updated depending on the command.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/76819117/155087980-8ab029a9-e62b-4c3d-b94b-02bab375df78.png" alt="Schema" />
+</p>
+
 After about 3 months of adding features, I deemed it to be sufficient to publish online so that other people could use it. Heroku was the perfect fit for all my needs and has 
 been hosting MBot to this day.
 
@@ -26,8 +33,8 @@ been hosting MBot to this day.
 
 ## Challenges
 Figuring out the best way to implement features was the biggest challenge, especially the ones that required a database since I had no prior knowledge 
-of using databases. However, after many hours of research, talking to people on coding forums, and trial and error, I eventually learned how to update and retrieve user data 
-from the database. This knowledge helped me implement a ton of features, such as the xp and currency system, as well as user profiles.
+of using databases. I eventually learned how to update and retrieve user data 
+from the database after researching. This knowledge helped me implement a ton of features, such as the xp and currency system, as well as user profiles.
 
 ## Set-up
 1. Create a Discord account 
